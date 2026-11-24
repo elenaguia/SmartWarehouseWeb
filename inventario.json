@@ -1,0 +1,8 @@
+[
+  {"codigo":101,"nombre":"Teclado","peso":8},
+  {"codigo":102,"nombre":"Ratón","peso":7},
+  {"codigo":103,"nombre":"Monitor","peso":6},
+  {"codigo":104,"nombre":"Auriculares","peso":5},
+  {"codigo":105,"nombre":"Impresora","peso":4},
+  {"codigo":106,"nombre":"Altavoces","peso":3}
+]
